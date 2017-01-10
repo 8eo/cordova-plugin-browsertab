@@ -27,7 +27,7 @@ cordova plugin add https://github.com/8eo/cordova-plugin-browsertab#update-andro
 
 List of available parameters:
 
-* **CUSTOM_TAB_COLOR_RGB** - Customize custom tab background color. Pass value as a RGB string `#RRGGBB`
+* **CUSTOM_TAB_COLOR_RGB** - Customize custom tab background color. Pass value as a RGB string `#RRGGBB`. Supported by Android only at the moment.
 
 ## Usage
 
